@@ -1,0 +1,89 @@
+﻿header.desktop-header-1 {
+    background: #414141 !important;
+}
+
+section.home {
+    background: #414141 !important;
+}
+
+/*.nav-link i {
+    color: #44D7B6 !important;
+}
+
+.nav-link:hover {
+    color: #44D7B6 !important;
+}
+
+.nav-link.active {
+    color: #44D7B6 !important;
+}*/
+
+body.dark {
+    background-color: #414141 !important;
+}
+
+body.dark .bg-dark {
+        background-color: #313131 !important;
+    }
+
+    body.dark .triangle-left-md:before {
+        border-right-color: #313131 !important;
+    }
+
+.blog-item .meta {
+    color: rgb(108, 108, 229) !important;
+}
+
+.blog-item .category2 {
+    background: #6C6CE5 !important;
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+    color: #FFF !important;
+    font-size: 14px !important;
+    padding: 2px 8px !important;
+    position: absolute !important;
+    left: 20px !important;
+    top: 0 !important;
+    z-index: 1 !important;
+}
+
+.blog-item .category3 {
+    background: #44D7B6 !important;
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+    color: #FFF !important;
+    font-size: 14px !important;
+    padding: 2px 8px !important;
+    position: absolute !important;
+    left: 20px !important;
+    top: 0 !important;
+    z-index: 1 !important;
+}
+
+#preloader {
+    background: #414141 !important;
+}
+
+header.desktop-header-1 .copyright {
+    color: #fff !important;
+}
+
+body.dark .timeline.exp .timeline-container::after, body.dark .timeline.edu .timeline-container::after {
+    background: #313131 !important;
+}
+
+.timeline .content .time {
+    color: rgb(108, 108, 229) !important;
+}
+
+footer.footer {
+    background: #414141 !important;
+}
+
+.testimonial-item .subtitle {
+    color: rgb(108, 108, 229) !important;
+}
+
+linkedin-footer {
+    color: rgb(108, 108, 229) !important;
+}
