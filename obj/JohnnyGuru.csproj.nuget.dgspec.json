@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Koder-Work\\Guru\\JohnnyGuru\\JohnnyGuru.csproj": {}
+    "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj": {}
   },
   "projects": {
-    "C:\\Koder-Work\\Guru\\JohnnyGuru\\JohnnyGuru.csproj": {
+    "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Koder-Work\\Guru\\JohnnyGuru\\JohnnyGuru.csproj",
+        "projectUniqueName": "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj",
         "projectName": "JohnnyGuru",
-        "projectPath": "C:\\Koder-Work\\Guru\\JohnnyGuru\\JohnnyGuru.csproj",
-        "packagesPath": "C:\\Users\\johnny\\.nuget\\packages\\",
-        "outputPath": "C:\\Koder-Work\\Guru\\JohnnyGuru\\obj\\",
+        "projectPath": "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj",
+        "packagesPath": "C:\\Users\\elmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Koder-Work\\Johnnys-Resume\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\johnny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
