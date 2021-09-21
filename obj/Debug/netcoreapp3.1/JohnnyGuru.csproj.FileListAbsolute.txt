@@ -189,7 +189,6 @@ C:\Koder-Work\Johnnys-Resume\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.W
 C:\Koder-Work\Johnnys-Resume\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Koder-Work\Johnnys-Resume\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Koder-Work\Johnnys-Resume\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.csprojAssemblyReference.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.AssemblyInfoInputs.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.AssemblyInfo.cs
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.csproj.CoreCompileInputs.cache
@@ -197,7 +196,6 @@ C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.MvcApplicationPa
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.RazorAssemblyInfo.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.RazorAssemblyInfo.cs
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\staticwebassets\JohnnyGuru.StaticWebAssets.Manifest.cache
-C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\staticwebassets\JohnnyGuru.StaticWebAssets.xml
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\scopedcss\bundle\JohnnyGuru.styles.css
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.TagHelpers.input.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.TagHelpers.output.cache
@@ -216,3 +214,5 @@ C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.csproj.CopyCompl
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.dll
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.pdb
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.genruntimeconfig.cache
+C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.csproj.AssemblyReference.cache
+C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.GeneratedMSBuildEditorConfig.editorconfig

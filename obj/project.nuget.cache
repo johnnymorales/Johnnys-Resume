@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sMEBUq4r9KjBT1mI5bl0ePgrP2kPnF7W53fc0EsLmGs3fYjDhXxbuJOXrmP6cl6i9hDwGdQL9UDxI/1AQYblew==",
+  "dgSpecHash": "ei2coo+vSfNbsoTGaqPckQ/xCWrF/XOI6vM0QOT7GGnSphQVvc/0q06RNSVt3m4ukX2M7NYB7rwRSvxOPUK5PQ==",
   "success": true,
   "projectFilePath": "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj",
   "expectedPackageFiles": [
@@ -110,7 +110,8 @@
     "C:\\Users\\elmer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\elmer\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\elmer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\elmer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\elmer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\elmer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }
