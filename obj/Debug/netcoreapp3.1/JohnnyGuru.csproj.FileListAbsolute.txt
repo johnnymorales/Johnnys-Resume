@@ -196,7 +196,6 @@ C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.MvcApplicationPa
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.RazorAssemblyInfo.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.RazorAssemblyInfo.cs
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\staticwebassets\JohnnyGuru.StaticWebAssets.Manifest.cache
-C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\scopedcss\bundle\JohnnyGuru.styles.css
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.TagHelpers.input.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.TagHelpers.output.cache
 C:\Koder-Work\Johnnys-Resume\obj\Debug\netcoreapp3.1\JohnnyGuru.RazorCoreGenerate.cache
