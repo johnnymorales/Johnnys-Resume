@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4n1rNKcwANcOPMRev/sqPOqyIZpsg+3Ov5PHxjCO7vjq5qlpzJ9c6iJAp//TDUSlmJlgwICbmv2PFuG9blqQQ==",
+  "dgSpecHash": "sN/PhSHUhbix6WyYRV7oDntOgOmcDnEvwHh90CThL4kfdvmQGOWbwY6b806jAHoMHTTbMk6vAHtgj5Pen1p78g==",
   "success": true,
-  "projectFilePath": "C:\\Koder-Work\\Johnnys-Resume\\JohnnyGuru.csproj",
+  "projectFilePath": "C:\\Coder-Work\\Johnnys-Resume\\JohnnyGuru.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elmer\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\elmer\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -110,7 +110,11 @@
     "C:\\Users\\elmer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\elmer\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\elmer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\elmer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\elmer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\elmer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\elmer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\elmer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elmer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
